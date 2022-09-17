@@ -5,7 +5,7 @@ import {
 	Route
 } from 'react-router-dom';
 import Home from './views/Home/home';
-import Quiz from './views/Quiz/quiz';
+import Quiz from './views/Quiz/Quiz';
 
 export default function App() {
 

@@ -3,7 +3,7 @@ import { useNavigate, useLocation } from 'react-router-dom'
 import { questions } from './data'
 import { HandleButtons } from './HandleButtons'
 import Questions from './Questions'
-import { ReAttempt } from './ReAttempt'
+import { ReAttempt } from './ReAttempt' 
 
 const Quiz = () => {
     const navigate = useNavigate()
